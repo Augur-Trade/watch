@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://augur-trade.com/watch"><img src="https://raw.githubusercontent.com/Augur-Trade/augur/main/media/header.jpg" alt="A.U.G.U.R for Wear OS" width="100%"></a>
+  <a href="https://augur-trade.com/watch"><img src="media/hero.png" alt="A.U.G.U.R for Wear OS — live $AUGUR tracker, Eyes watch face, and A.L.F" width="100%"></a>
 </p>
 
 <p align="center">
@@ -24,6 +24,15 @@
 - **🔒 Your account, safely** — pair once; buys are capped and every trade is confirmed on-device.
 
 The screen stays on while the app is open, so a wrist-down never blanks it mid-trade.
+
+## Screens
+
+<p align="center">
+  <img src="media/tracker.png" alt="$AUGUR tracker — price, chart and one-tap sell" width="32%">
+  <img src="media/face.png" alt="A.U.G.U.R Eyes watch face" width="32%">
+  <img src="media/alf.png" alt="A.L.F, your AI sidekick" width="32%">
+</p>
+<p align="center"><sub>Live $AUGUR tracker &amp; one-tap sell · A.U.G.U.R Eyes watch face · A.L.F hands-free sidekick</sub></p>
 
 ## Install
 
